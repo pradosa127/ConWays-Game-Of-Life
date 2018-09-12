@@ -1,1 +1,0 @@
-# ConWays-Game-Of-Life
